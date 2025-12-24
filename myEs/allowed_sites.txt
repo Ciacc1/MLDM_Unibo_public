@@ -1,0 +1,8 @@
+What can I consult during the exam?
+During the entire exam you can access only the websites below. 
+https://numpy.org
+https://scipy.org 
+https://pandas.pydata.org 
+https://matplotlib.org 
+https://seaborn.pydata.org 
+https://scikit-learn.org/stable
